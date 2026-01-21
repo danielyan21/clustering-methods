@@ -1,5 +1,5 @@
 # Vignette-Clustering-Methods
-Vignette on comparing three clustering methods (k means, spectral, agglomerative); created as a class project for PSTAT197A in Fall 2024.
+Copy of complete project: Vignette on comparing three clustering methods (k means, spectral, agglomerative); created as a class project for PSTAT197A in Fall 2024.
 
 ### Contributors
 - Kasturi Sharma
